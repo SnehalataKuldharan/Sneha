@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Omkar Bhagawat</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Snehalata Kuldharan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p >
@@ -11,38 +11,27 @@
 - 🌱 I’m currently learning **Spring Boot**
 
 - 🤝 I’m looking for help with **Spring MVC**
+ 
 
-- 😄 Pronouns:He/His
-
-- ⚡ Fun fact: I am mechanical engineer!!!
-
-- 👨‍💻 All of my projects are available at [https://github.com/onkarBhagawat](https://github.com/onkarBhagawat)
+- 👨‍💻 All of my projects are available at [https://github.com/SnehalataKuldharan](https://github.com/SnehalataKuldharan)
 
 - 💬 Ask me about **anything, I am happy to help**
 
-- 📫  reach me on **obhagawat0@gmail.com**
+- 📫  reach me on **snehukuldharan3697@gmail.com**
 
 # Connect with me<img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Handshake.gif" height="30px">
  
 <br/>
-<a href="obhagawat0@gmail.com">
-  <img align="left" alt="Onkar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="snehukuldharan3697@gmail.com">
+  <img align="left" alt="Sneha's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href=https://www.linkedin.com/in/omkar-bhagawat/>
-  <img align="left" alt="Onkar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href=https://www.linkedin.com/in/snehalata-kuldharan-9b5792167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf%2F76nDteSaucxwQXxe9xvA%3D%3D>
+  <img align="left" alt="Sneha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/onkarBhagawat">
-  <img align="left" alt="Onkar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/SnehalataKuldharan">
+  <img align="left" alt="Sneha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/OmkarBhagawat">
-  <img align="left" alt="Onkar's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.facebook.com/ash.jon1/">
-  <img align="left" alt="Onkar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href=https://www.instagram.com/omkar_bhagawat/">
-  <img align="left" alt="Onkar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
                        
 <br/>
 
@@ -55,12 +44,11 @@
 
 
 
-<a href="https://github.com/OnkarBhagawat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarBhagawat&theme=light&hide_langs_below=1" />
+<a href="https://github.com/SnehalataKuldharan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalataKuldharan&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/OnkarBhagawat">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=OnkarBhagawat&show_icons=true&theme=light&line_height=27" alt="Onkar's github stats"/>
+<a href="https://github.com/SnehalataKuldharan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SnehalataKuldharan&show_icons=true&theme=light&line_height=27" alt="Sneha's github stats"/>
 </a>
 
 <br />
-
